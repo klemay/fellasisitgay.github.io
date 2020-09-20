@@ -1,4 +1,4 @@
-#container {
+.container {
   text-align: center;
   font-size: 25vw;
   top: 50vh;
@@ -10,7 +10,7 @@
   font-weight: bold;
 }
 
-#answer {
+.answer {
       /* standard gradient background */
   background: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
 
@@ -19,7 +19,7 @@
   -webkit-text-fill-color: transparent;
 }
 
-#footer {
+.footer {
   position: fixed;
   left: 0;
   bottom: 0;
