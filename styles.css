@@ -1,13 +1,9 @@
-.container {
+h1 {
   text-align: center;
-  font-size: 25vw;
-  top: 50vh;
-  position: absolute;
-  left: 50vw;
-  margin-left: -27vw;
-  margin-top: -20vw;
+  font-size: 20em;
   font-family: "Lalezar";
   font-weight: bold;
+  letter-spacing: 15px;
 }
 
 .answer {
